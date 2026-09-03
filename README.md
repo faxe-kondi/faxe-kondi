@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Noah 👋
 
-<!--
-**faxe-kondi/faxe-kondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Multimedia Designer currently studying Web Development at Syddansk Erhvervsakademi.
 
-Here are some ideas to get you started:
+💻 Tech & Skills
+<ul>
+  <li>HTML / CSS</li>
+  <li>JavaScript / TypeScript</li>
+  <li>PHP</li>
+  <li>Vue.js</li>
+  <li>WordPress</li>
+  <li>UI/UX Design</li>
+  <li>Responsive Web Design</li>
+  <li>Git & GitHub</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>Contact me at
+<ul><li>noakri01@easv365.dk</li></ul>
